@@ -1,4 +1,4 @@
-# 간단한 회원가입 및 관리자 페이지 프로젝트
+# 관리자 페이지 및 간단한 회원가입 프로젝트
 
 이 프로젝트는 간단한 회원가입 시스템과 관리자 페이지를 구현한 웹 애플리케이션입니다. HTML, CSS, JavaScript 및 Bootstrap을 활용하여 사용자 친화적인 UI와 기본적인 유효성 검사를 포함하고 있습니다.
 
@@ -45,6 +45,6 @@
 ## 실행 방법
 1. 이 리포지토리를 클론합니다:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/pcm422/241227.git
    
 2. 브라우저에서 index.html 파일을 열어 프로젝트를 실행합니다.
